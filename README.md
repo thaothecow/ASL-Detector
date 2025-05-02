@@ -7,7 +7,8 @@ https://www.kaggle.com/models/sayannath235/american-sign-language/
 # How to run
 - open the project preferably in a virtual or conda environment
 - install dependies via: pip install -r requirements.txt
-- should run after this, may take up to a couple of minutes to load the program
+- run main.py, may take up to a couple of minutes to load the program
+- press 'Q' key to close the program
 
 # Individual Contribution
 Annabel Chao 
